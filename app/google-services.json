@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "206179919989",
+    "project_id": "signup-login-firebase-a9ca9",
+    "storage_bucket": "signup-login-firebase-a9ca9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:206179919989:android:95071c2968976b78e9303c",
+        "android_client_info": {
+          "package_name": "com.anmol.signuploginfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "206179919989-n3md4iojqmh866vkef9kvu4gmtt1e7u1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAW9zEgGhx6W-KfEbV__XBGjLK09ghMQwg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "206179919989-n3md4iojqmh866vkef9kvu4gmtt1e7u1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
